@@ -20,4 +20,4 @@ Contributions are welcome! Feel free to submit pull requests or report issues.
 
 This project is licensed under the [MIT License](LICENSE).
 
-![Application Interface](interface_screenshot.png) # Placeholder for a screenshot of your app
+![Application Interface](preview.png) # Placeholder for a screenshot of your app
