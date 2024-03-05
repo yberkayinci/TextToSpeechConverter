@@ -16,8 +16,6 @@ To use the application, simply input your text into the designated field, select
 
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ![Application Interface](preview.png) 
